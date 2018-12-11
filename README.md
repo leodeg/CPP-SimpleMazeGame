@@ -1,3 +1,3 @@
 My college homework.
 
-![maze game screenshot](\screenshot\MazeGame.png)
+![maze game screenshot](https://github.com/rdkdvv/CPP-SimpleMazeGame/blob/master/screenshot/MazeGame.png)
